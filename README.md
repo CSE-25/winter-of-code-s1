@@ -25,9 +25,9 @@ minds, contribute to real-world projects and turbocharge your coding skills. :ch
 
 ## 10 Rules for This Winter :memo:
 
-Essential guidelines for contributing to :snowflake: Winter of Code @ ACM Amrita 2024-25. Failing to follow thses will lead to disqualification from the competition.
+Essential guidelines for contributing to :snowflake: Winter of Code @ ACM Amrita 2024-25. Failing to follow these will lead to disqualification from the competition.
 
-1. **GitHub Account**: Ensure you have an active personl GitHub account.
+1. **GitHub Account**: Ensure you have an active personal GitHub account.
 2. **Registration Form**: Fill out the [registration form](https://forms.office.com/r/xH6GzZZhzC) with valid credentials. This will be used to track your progress and give out rewards.
 3. **Descriptive Commit Messages**: Write clear and concise commit messages that explain the changes made.
 4. **One Issue at a Time**: Focus on completing one issue before requesting to be assigned to another.
