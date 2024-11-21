@@ -1,1 +1,1 @@
-# winter_of_code_season01
+# Amrita :snowflake: Winter of Code - Season 01 :dizzy:
