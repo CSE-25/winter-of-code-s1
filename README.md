@@ -21,7 +21,7 @@ Essential guidelines for contributing to Amrita :snowflake: Winter of Code 2024
 2. **Form Completion:** Fill out the [contributor form](https://forms.office.com/r/xH6GzZZhzC) with valid credentials. This will be used to track your progress and give out rewards.
 3. **Descriptive Commit Messages:** Write clear and concise commit messages that explain the changes made.
 4. **One Issue at a Time:** Focus on completing one issue before requesting to be assigned to another.
-5. **AI Tool Usage: The use of AI tools is permitted, but excessive reliance on AI-generated code may lead to rejection.
+5. **AI Tool Usage:** The use of AI tools is permitted, but excessive reliance on AI-generated code may lead to rejection.
 6. **Eligibility Criteria:** Adhere to the eligibility criteria outlined in each issue.
 7. **Original Code:** Avoid using copyrighted code.
 8. **Code Review:** The final decision on reward allocation rests with the maintainers.
