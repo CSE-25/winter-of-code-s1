@@ -63,19 +63,15 @@ Description under construction :construction:
 Description under construction :construction:    
 **Tech Stack:**
 
-#### 7. TaskShogun - CLI Kanban Board
+#### 7. Data Structures and Algorithms (All Languages)
 Description under construction :construction:    
 **Tech Stack:**
 
-#### 8. Data Structures and Algorithms (All Languages)
+#### 8. Bluedis - A Homegrown Redis
 Description under construction :construction:    
 **Tech Stack:**
 
-#### 9. Bluedis - A Homegrown Redis
-Description under construction :construction:    
-**Tech Stack:**
-
-#### 10. Timetable Progressive Web App
+#### 9. Timetable Progressive Web App
 Description under construction :construction:    
 **Tech Stack:**
 
