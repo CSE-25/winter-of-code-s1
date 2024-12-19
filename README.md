@@ -3,7 +3,7 @@
 > [!Note]
 > This competition is purely for `Amrita Vishwa Vidyapeetham, Coimbatore` students only. All repositories are maintained by `students` of Amrita Vishwa Vidyapeetham, Coimbatore.
 
-![image](https://github.com/user-attachments/assets/8b9f39e6-2552-4500-9e18-d76b4245c18a)
+![WinterOfCodeLatestDate](https://github.com/user-attachments/assets/a05cf45f-447a-43d1-8096-748da3a905ef)
 
 Join us for `Winter of Code @ ACM, Amrita Coimbatore` `2024-25`, a unique opportunity to dive 
 headfirst into the world of open-source development. Collaborate with brilliant 
@@ -13,9 +13,9 @@ minds, contribute to real-world projects and turbocharge your coding skills. :ch
 
 #### 1. Orientation Session
 
-| Date | Time | Mode | 
-| ---- | ---- | ---- |
-| TBD | TBD | `Online` |
+| Date | Time | Mode | Live Stream Link |
+| ---- | ---- | ---- | --------- |
+| 16/10/2024 | 9PM | `Online` | https://www.youtube.com/live/cE_5hnCM5Vs?si=3YsRkR7F2tvHP7El |
 
 #### 2. Code Review Livestreams
 
@@ -75,10 +75,42 @@ Description under construction :construction:
 Description under construction :construction:    
 **Tech Stack:**
 
+#### 10. BurntBrotta - Web
+Description under construction :construction:    
+**Tech Stack:**
+
+#### 11. BurntBrotta - Flutter
+Description under construction :construction:    
+**Tech Stack:**
+
+#### 12. Leetpath
+Description under construction :construction:    
+**Tech Stack:**
+
+#### 13. AmritaGPT
+Description under construction :construction:    
+**Tech Stack:**
+
+#### 14. Neuroscribe
+Description under construction :construction:    
+**Tech Stack:**
+
+#### 15. TN Tourism
+Description under construction :construction:    
+**Tech Stack:**
+
+#### 16. Amrita Sports Management System
+Description under construction :construction:    
+**Tech Stack:**
+
 ## Meet your Maintainers :building_construction:
 1. [Ashwin Narayanan S - 4th Year, CSE](https://github.com/Ashrockzzz2003)
 2. [Abhinav Ramakrishnan - 4th Year, CSE](https://github.com/Abhinav-ark/)
-3. [Shreyas Visweshwaran - 4th Year, CSE](https://github.com/FirefoxSRV)
-4. [Abineha Prabhu - 4th Year, CSE](https://github.com/abineha)
-5. [Hariharan - 4th Year, CSE](https://github.com/Hariharan-Arul)
-6. [Ritesh Koushik - 3rd Year, CSE](https://github.com/IAmRiteshKoushik)
+3. [Ritesh Koushik - 3rd Year, CSE](https://github.com/IAmRiteshKoushik)
+4. [Shreyas Visweshwaran - 4th Year, CSE](https://github.com/FirefoxSRV)
+5. [Abineha Prabhu - 4th Year, CSE](https://github.com/abineha)
+6. [M Aasil - 4th Year, CSE](https://github.com/mdxaasil)
+7. [Saran Dharshan - 3rd Year, AIE](https://github.com/SaranDharshanSP/)
+8. [Amritha Nandhini - 3rd Year, AIE](https://github.com/amri-tah)
+9. [Vishal S - 3rd Year, AIE](https://github.com/VishalTheHuman/)
+10. [Hariharan - 4th Year, CSE](https://github.com/Hariharan-Arul)
