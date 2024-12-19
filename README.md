@@ -3,7 +3,7 @@
 > [!Note]
 > This competition is purely for `Amrita Vishwa Vidyapeetham, Coimbatore` students only. All repositories are maintained by `students` of Amrita Vishwa Vidyapeetham, Coimbatore.
 
-![image](https://github.com/user-attachments/assets/8b9f39e6-2552-4500-9e18-d76b4245c18a)
+![WinterOfCode](https://github.com/user-attachments/assets/3a12c697-cb33-4322-83c4-4b1b791be960)
 
 Join us for `Winter of Code @ ACM, Amrita Coimbatore` `2024-25`, a unique opportunity to dive 
 headfirst into the world of open-source development. Collaborate with brilliant 
@@ -13,9 +13,9 @@ minds, contribute to real-world projects and turbocharge your coding skills. :ch
 
 #### 1. Orientation Session
 
-| Date | Time | Mode | 
-| ---- | ---- | ---- |
-| TBD | TBD | `Online` |
+| Date | Time | Mode | Live Stream Link |
+| ---- | ---- | ---- | --------- |
+| 16/10/2024 | 9PM | `Online` | https://www.youtube.com/live/cE_5hnCM5Vs?si=3YsRkR7F2tvHP7El |
 
 #### 2. Code Review Livestreams
 
