@@ -3,7 +3,7 @@
 > [!Note]
 > This competition is purely for `Amrita Vishwa Vidyapeetham, Coimbatore` students only. All repositories are maintained by `students` of Amrita Vishwa Vidyapeetham, Coimbatore.
 
-![WinterOfCode](https://github.com/user-attachments/assets/3a12c697-cb33-4322-83c4-4b1b791be960)
+![WinterOfCodeLatestDate](https://github.com/user-attachments/assets/a05cf45f-447a-43d1-8096-748da3a905ef)
 
 Join us for `Winter of Code @ ACM, Amrita Coimbatore` `2024-25`, a unique opportunity to dive 
 headfirst into the world of open-source development. Collaborate with brilliant 
