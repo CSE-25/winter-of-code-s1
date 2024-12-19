@@ -75,6 +75,34 @@ Description under construction :construction:
 Description under construction :construction:    
 **Tech Stack:**
 
+#### 10. BurntBrotta - Web
+Description under construction :construction:    
+**Tech Stack:**
+
+#### 11. BurntBrotta - Flutter
+Description under construction :construction:    
+**Tech Stack:**
+
+#### 12. Leetpath
+Description under construction :construction:    
+**Tech Stack:**
+
+#### 13. AmritaGPT
+Description under construction :construction:    
+**Tech Stack:**
+
+#### 14. Neuroscribe
+Description under construction :construction:    
+**Tech Stack:**
+
+#### 15. TN Tourism
+Description under construction :construction:    
+**Tech Stack:**
+
+#### 16. Amrita Sports Management System
+Description under construction :construction:    
+**Tech Stack:**
+
 ## Meet your Maintainers :building_construction:
 1. [Ashwin Narayanan S - 4th Year, CSE](https://github.com/Ashrockzzz2003)
 2. [Abhinav Ramakrishnan - 4th Year, CSE](https://github.com/Abhinav-ark/)
